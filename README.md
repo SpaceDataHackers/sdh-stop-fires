@@ -14,7 +14,24 @@ Early and effective fire detection, fire prediction, risk analysis, and economic
     * DHS S&T Successfully Evaluates Wildfire Sensors with California Emergency Responders [news release](https://www.dhs.gov/science-and-technology/news/2021/06/10/news-release-st-successfully-evaluates-wildfire-sensors)
     * Smart City Internet of Things Innovation [sciti-labs](https://www.dhs.gov/science-and-technology/st-smart-city-internet-things-innovation-sciti-labs)
   * Forest Service [managing-land/fire](https://www.fs.usda.gov/managing-land/fire)
+    * firelab [wildfire-hazard-potential](https://www.firelab.org/project/wildfire-hazard-potential)
 
+### Wildfire modeling simulations
+* [Wikipedia](https://en.wikipedia.org/wiki/Wildfire_modeling)
+* complimentary
+  * concord.org
+    * [wildfire](https://wildfire.concord.org/) online web
+  * firegrowthmodel.ca
+    *  [prometheus](http://www.firegrowthmodel.ca/prometheus/overview_e.php) deterministic wildland fire growth simulation model
+    *  [burn-p3](http://www.firegrowthmodel.ca/burnp3/overview_e.php) probability, prediction, and planning
+    *  [pandora](http://www.firegrowthmodel.ca/pandora/overview_e.php) batch processing
+  * nist
+    * [fds-smv](https://pages.nist.gov/fds-smv/) Fire Dynamics Simulator with smoke view  
+      * [video](https://www.nist.gov/video/fire-dynamics-simulator-fds-simulation-wildfire)
+
+* commercial
+  * [wildfireanalyst](https://www.wildfireanalyst.com/)  
+   
 ### Reference
 * 2020.spaceappschallenge [spot-fire-3](https://2020.spaceappschallenge.org/challenges/confront/spot-fire-3/details)
 * [FUEGO](https://fuego.ssl.berkeley.edu/) ([spie-article](https://fuego.ssl.berkeley.edu/wp-content/uploads/2018/10/FUEGO_SPIE.pdf)) ([paper](https://fuego.ssl.berkeley.edu/wp-content/uploads/2018/10/remotesensing-05-05173-1.pdf))
