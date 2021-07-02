@@ -20,7 +20,9 @@ Early and effective fire detection, fire prediction, risk analysis, and economic
 * [Wikipedia](https://en.wikipedia.org/wiki/Wildfire_modeling)
 * complimentary
   * concord.org
-    * [wildfire](https://wildfire.concord.org/) online web
+    * [wildfire](https://wildfire.concord.org/) js game
+  * shodor.org
+    * [ABetterFire](http://www.shodor.org/interactivate/activities/ABetterFire/) js game
   * firegrowthmodel.ca
     *  [prometheus](http://www.firegrowthmodel.ca/prometheus/overview_e.php) deterministic wildland fire growth simulation model
     *  [burn-p3](http://www.firegrowthmodel.ca/burnp3/overview_e.php) probability, prediction, and planning
