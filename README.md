@@ -17,7 +17,8 @@ Early and effective fire detection, fire prediction, risk analysis, and economic
     * firelab [wildfire-hazard-potential](https://www.firelab.org/project/wildfire-hazard-potential)
 
 ### Wildfire modeling simulations
-* [Wikipedia](https://en.wikipedia.org/wiki/Wildfire_modeling)
+* Wikipedia [Wildfire_modeling](https://en.wikipedia.org/wiki/Wildfire_modeling)
+* GitHub topic [forest-fire](https://github.com/topics/forest-fire)
 * complimentary
   * concord.org
     * [wildfire](https://wildfire.concord.org/) js game
