@@ -41,6 +41,11 @@ Early and effective fire detection, fire prediction, risk analysis, and economic
    
 ### Reference
 * 2020.spaceappschallenge [spot-fire-3](https://2020.spaceappschallenge.org/challenges/confront/spot-fire-3/details)
+  * some of the nominees
+  * [blaze](https://2020.spaceappschallenge.org/challenges/confront/spot-fire-3/teams/blaze-1/project)
+  * [back-burn-boys](https://2020.spaceappschallenge.org/challenges/confront/spot-fire-3/teams/back-burn-boys/project)
+  * [firegoapp](https://2020.spaceappschallenge.org/challenges/confront/spot-fire-3/teams/firegoapp/project)
+  * 
 * [FUEGO](https://fuego.ssl.berkeley.edu/) ([spie-article](https://fuego.ssl.berkeley.edu/wp-content/uploads/2018/10/FUEGO_SPIE.pdf)) ([paper](https://fuego.ssl.berkeley.edu/wp-content/uploads/2018/10/remotesensing-05-05173-1.pdf))
   * Applied commercially as [fireball](https://www.fireball.international/)
 * unum.nsin [beat-the-blaze](https://unum.nsin.us/beat-the-blaze)
