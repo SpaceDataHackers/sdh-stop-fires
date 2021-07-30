@@ -20,6 +20,9 @@ Early and effective fire detection, fire prediction, risk analysis, and economic
   * Forest Service [managing-land/fire](https://www.fs.usda.gov/managing-land/fire)
     * firelab [wildfire-hazard-potential](https://www.firelab.org/project/wildfire-hazard-potential)
 
+*  Kaggle 
+   * [188-million-us-wildfires](https://www.kaggle.com/rtatman/188-million-us-wildfires)  
+
 ### Wildfire modeling simulations
 * Wikipedia [Wildfire_modeling](https://en.wikipedia.org/wiki/Wildfire_modeling)
 * GitHub topic [forest-fire](https://github.com/topics/forest-fire)
