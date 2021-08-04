@@ -5,13 +5,18 @@ Early and effective fire detection, fire prediction, risk analysis, and economic
 * NASA
   * [FIRMS](https://firms.modaps.eosdis.nasa.gov/) Fire Information for Resource Management System
     * [FIRMS2](https://firms2.modaps.eosdis.nasa.gov/map) map
+* CA state
+  *  [Cal fire](https://www.fire.ca.gov/) 
+  *  Open data [portal](https://data.ca.gov/harvest/cal-fire)
+  *  metavision.tech wildfire [map](http://metavision.tech/assets/wfmap.html)
+     * [code](https://github.com/MThorpester/California-Wildfires)      
+* OR state
+  * Oregon Open Data [Portal](https://data.oregon.gov/)
+    * [q=ODF Stat Fires](https://data.oregon.gov/browse?q=ODF%20Stat%20Fires)
 * WA state
   * wildfire-resources [dnr](https://www.dnr.wa.gov/programs-and-services/wildfire-resources)
   * Washington Geospatial Open Data [Portal](https://geo.wa.gov/)
     * [q=fire](https://geo.wa.gov/search?q=fire) 
-* OR state
-  * Oregon Open Data [Portal](https://data.oregon.gov/)
-    * [q=ODF Stat Fires](https://data.oregon.gov/browse?q=ODF%20Stat%20Fires)
 * Federal
   * US Fire Administration [usfa](https://www.usfa.fema.gov/)
   * Dept Homeland Security 
