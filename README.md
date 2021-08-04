@@ -9,7 +9,10 @@ Early and effective fire detection, fire prediction, risk analysis, and economic
   *  [Cal fire](https://www.fire.ca.gov/) 
   *  Open data [portal](https://data.ca.gov/harvest/cal-fire)
   *  metavision.tech wildfire [map](http://metavision.tech/assets/wfmap.html)
-     * [code](https://github.com/MThorpester/California-Wildfires)      
+     * [code](https://github.com/MThorpester/California-Wildfires)
+* NV state
+  *  University of Nevada
+     * [alertwildfire.org](http://www.alertwildfire.org/index.html) - video camera dashboard
 * OR state
   * Oregon Open Data [Portal](https://data.oregon.gov/)
     * [q=ODF Stat Fires](https://data.oregon.gov/browse?q=ODF%20Stat%20Fires)
