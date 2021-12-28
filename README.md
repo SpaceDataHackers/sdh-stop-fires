@@ -34,6 +34,8 @@ Early and effective fire detection, fire prediction, risk analysis, and economic
 ### Wildfire modeling simulations
 * Wikipedia [Wildfire_modeling](https://en.wikipedia.org/wiki/Wildfire_modeling)
 * GitHub topic [forest-fire](https://github.com/topics/forest-fire)
+  * [jessie_fire_simulation](https://github.com/ruiwu1990/jessie_fire_simulation) circa 2016
+    * A Real-time Web-based Wildfire Simulation System (paper) [:link:](https://www.cse.unr.edu/~dascalus/paperRui.pdf) 
 * complimentary
   * concord.org
     * [wildfire](https://wildfire.concord.org/) js game
